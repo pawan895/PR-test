@@ -35,6 +35,9 @@ function App() {
       <div style={scrollViewStyle}>
         <div style={cardContainerStyle}>
           <Card name="Pawan" number="20MIS0227" />
+          
+          <Card name="Gnana Varshita" number="20MIS0141" />
+
          
         </div>
       </div>
