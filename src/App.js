@@ -36,7 +36,9 @@ function App() {
         <div style={cardContainerStyle}>
           <Card name="Pawan" number="20MIS0227" />
           <Card name="Abhinav" number="21BCE3310"/>
-         
+          <Card name="Gokul" number="22BCE2945" />
+          <Card name="Hitesh" number="22BCE2318" />
+
         </div>
       </div>
     </div>
