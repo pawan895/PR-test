@@ -39,7 +39,10 @@ function App() {
               <Card name="Abhinav" number="21BCE3310"/>
           <Card name="Gokul" number="22BCE2945" />
           <Card name="Hitesh" number="22BCE2318" />
+              <Card name="Satvik Rajan" number="21BCI0393" />
+
           <Card name="Nimisha" number="21BCE2989" />
+
 
         </div>
       </div>
